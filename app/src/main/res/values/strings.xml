@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CameraHider</string>
+
+    <!-- LSPosed 作用域：只对抖音生效 -->
+    <string-array name="xposed_scope">
+        <item>com.ss.android.ugc.aweme</item>
+        <item>com.ss.android.ugc.aweme.lite</item>
+    </string-array>
+</resources>
